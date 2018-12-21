@@ -1,2 +1,6 @@
 .env
 *.pyc
+__pycache__/
+errors/__pycache__/
+main/__pycache__/
+static/*.pdf
